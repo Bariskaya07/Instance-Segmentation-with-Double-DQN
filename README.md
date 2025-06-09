@@ -8,12 +8,6 @@ Bu proje, standart **Mask R-CNN** mimarisine entegre edilen **Double Deep Q-Netw
 
 This project presents a reinforcement learning-enhanced instance segmentation pipeline that integrates a **Double Deep Q-Network (Double DQN)** into a standard **Mask R-CNN** framework. The goal is to improve the pixel-level segmentation quality by treating mask refinement as a sequential decision-making problem, guided by **reward signals** based on **IoU (Intersection over Union)** improvements.
 ---
-
-````markdown
-
-
----
-
 ## 🧠 Motivation
 
 Instance segmentation requires high-quality, fine-grained object masks — especially in complex scenes with occlusions and clutter. While **Mask R-CNN** is powerful, it relies heavily on supervised learning and large annotated datasets. This project introduces **reinforcement learning (RL)** to enhance mask quality with a **Double DQN** module that learns to refine predictions based on experience and feedback.
@@ -26,6 +20,12 @@ Instance segmentation requires high-quality, fine-grained object masks — espec
 2. **Reward-driven Optimization**: Rewards are based on IoU improvement, guiding the agent toward better mask alignment.
 3. **No Additional Epochs Needed**: Significant performance boost is achieved without extending total training time.
 4. **+57% AP boost**: Compared to a supervised-only Mask R-CNN baseline.
+````markdown
+
+
+---
+
+
 
 ---
 
