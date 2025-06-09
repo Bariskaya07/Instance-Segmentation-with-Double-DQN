@@ -1,10 +1,10 @@
 
-# 🎯 Double DQN ve Reinforcement Learning Yaklaşımıyla Instance Segmentation
+## Double DQN ve Reinforcement Learning Yaklaşımıyla Instance Segmentation
 
 Bu proje, standart **Mask R-CNN** mimarisine entegre edilen **Double Deep Q-Network (Double DQN)** yapısıyla güçlendirilmiş bir instance segmentation (nesne bazlı bölütleme) sistemi sunar. Amaç, piksel düzeyindeki segmentasyon kalitesini artırmak ve maske iyileştirme sürecini **IoU (Intersection over Union)** değerlerine dayalı **ödül sinyalleri** ile yönlendirilen ardışıl bir karar verme problemine dönüştürerek öğrenmeyi daha akıllı hale getirmektir.
 
 
-# 🎯 Reinforcement Learning Approach to Instance Segmentation Using Double DQN
+## Reinforcement Learning Approach to Instance Segmentation Using Double DQN
 
 This project presents a reinforcement learning-enhanced instance segmentation pipeline that integrates a **Double Deep Q-Network (Double DQN)** into a standard **Mask R-CNN** framework. The goal is to improve the pixel-level segmentation quality by treating mask refinement as a sequential decision-making problem, guided by **reward signals** based on **IoU (Intersection over Union)** improvements.
 ---
