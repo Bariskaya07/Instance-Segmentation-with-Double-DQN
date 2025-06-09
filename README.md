@@ -111,13 +111,6 @@ python segmentation/inference_image.py --input input.jpg --output result.png
 python segmentation/inference_video.py --input input.mp4 --output result.mp4
 ```
 
----
-
-## 📈 Visual Example
-
-![Segmented Cars](results/segmentation_output_example.png)
-
----
 
 ## 📝 Citation (APA)
 
