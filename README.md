@@ -149,9 +149,4 @@ This research was supported by Bahçeşehir University. We also thank:
 ---
 
 ```
-
----
-
-Bu `README.md` dosyasını doğrudan GitHub projenin kök dizinine koyarak kullanabilirsin.  
-Hazırsan `.gitignore` veya `requirements.txt` kısmını da birlikte tamamlayabiliriz. İster misin?
 ```
