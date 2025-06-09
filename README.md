@@ -114,7 +114,7 @@ python segmentation/inference_video.py --input input.mp4 --output result.mp4
 
 ## 📝 Citation (APA)
 
-Kaya, B., Denkınalbant, A., Ahangari, M., Saidburkhan, A., & Arıcan, E. (2025). *Reinforcement Learning Approach to Instance Segmentation Using Double DQN*. Bahçeşehir University.
+Kaya, B., Denknalbant, A., Ahangari, M., Saidburkhan, A., & Arıcan, E. (2025). *Reinforcement Learning Approach to Instance Segmentation Using Double DQN*. Bahçeşehir University.
 
 ---
 
