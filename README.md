@@ -21,14 +21,6 @@ Instance segmentation requires high-quality, fine-grained object masks — espec
 3. **No Additional Epochs Needed**: Significant performance boost is achieved without extending total training time.
 4. **+57% AP boost**: Compared to a supervised-only Mask R-CNN baseline.
 ````markdown
-
-
----
-
-
-
----
-
 ## 📦 Project Structure
 
 ```bash
